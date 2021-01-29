@@ -48,4 +48,4 @@ ghbhiuryidfjkjsdfgkojvoisdufjiokjsrlfkgj0oiboidcjsgi
 >>>>kittu
  
  ### inserting url
- [google(https://www.google.com/maps)]
+ [google](https://www.google.com/)
