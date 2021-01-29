@@ -4,5 +4,9 @@
 #### git head4
 
 **prashanthi**
-_ nirmala_
+
+__ nirmala__
+
 *gitworkshop*
+
+_**italic and bold**_
